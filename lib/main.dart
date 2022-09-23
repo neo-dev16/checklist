@@ -100,6 +100,7 @@ class _HomeState extends State<Home> {
                   ),
                 ),
               ),
+              const SizedBox(width: 15),
               RaisedButton(
                 color: Colors.blueAccent,
                 textColor: Colors.white,
